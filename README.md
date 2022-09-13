@@ -8,7 +8,7 @@
 Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] briefing e levantamento de requisitos
 - [X] prototipação
-    - <https://www.figma.com/file/TohqCJjXuG5CA9JH8cuR3r/Quiz?node-id=2%3A19>
+    - <https://www.figma.com/file/P0QTiuBnN16DEEqTpRi8qa/Quiz-Estetica?node-id=0%3A1>
 - [X] validação inicial
 - [X] produção(programação)
     - [X] criar repositório no github
